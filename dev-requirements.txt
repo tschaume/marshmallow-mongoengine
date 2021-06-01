@@ -1,5 +1,5 @@
 invoke
-black==19.10b0
+black==21.5b2
 
 # testing
 pytest
